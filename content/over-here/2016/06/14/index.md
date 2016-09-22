@@ -2,7 +2,7 @@ layout: post
 title: Hoedown is great!
 description: A quick Markdown example for Plato.
 
-tags: [tech,racket,markdown,hoedown]
+tags: tech,racket,markdown,hoedown]
 ---
 
 # Hoedown

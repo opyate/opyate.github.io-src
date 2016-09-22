@@ -4,7 +4,7 @@ og_image_url: "https://raw.githubusercontent.com/opyate/opyate.github.io/master/
 image: "https://raw.githubusercontent.com/opyate/opyate.github.io/master/res/wedding.jpg"
 image_content_type: "image/jpeg"
 layout: post
-tags: [tech, life]
+tags: tech, life]
 
 ---
 

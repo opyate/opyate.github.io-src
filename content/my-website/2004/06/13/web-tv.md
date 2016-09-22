@@ -4,7 +4,7 @@ og_image_url: "http://images.fanpop.com/images/image_uploads/Old-School-TV-telev
 image: "http://images.fanpop.com/images/image_uploads/Old-School-TV-television-296019_1544_1500.jpg"
 image_content_type: "image/jpeg"
 layout: post
-tags: [tech, javascript]
+tags: tech, javascript]
 
 ---
 
