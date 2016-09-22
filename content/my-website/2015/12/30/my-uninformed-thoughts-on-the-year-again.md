@@ -2,7 +2,7 @@ title: "Twenty Fifteen"
 description: "My uninformed thoughts on the year, again."
 layout: post
 tags: [tech, life]
-category: blog
+
 ---
 
 Let's make this a quick one. I'm a busy dad, you know.

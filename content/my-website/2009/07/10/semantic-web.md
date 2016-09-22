@@ -5,7 +5,7 @@ image: "http://www.w3.org/DesignIssues/diagrams/loop.gif"
 image_content_type: "image/gif"
 layout: post
 tags: [tech, semweb]
-category: blog
+
 ---
 
 Hi there,

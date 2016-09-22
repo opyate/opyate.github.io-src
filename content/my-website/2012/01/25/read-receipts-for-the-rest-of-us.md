@@ -5,7 +5,7 @@ image: "http://i.imgur.com/t6oOMxg.jpg"
 image_content_type: "image/jpeg"
 layout: post
 tags: tech
-category: blog
+
 ---
 
 Or, more correctly: Read Receipts for geeks who use [iTerm](http://www.iterm2.com/) and/or [Growl](http://growl.info/).

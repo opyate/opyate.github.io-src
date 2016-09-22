@@ -5,7 +5,7 @@ image: "http://1.bp.blogspot.com/-rIALnuq4xME/TtGDgnD3siI/AAAAAAAABwk/IP-rYCMzxZ
 image_content_type: "image/jpeg"
 layout: post
 tags: [tech, javascript]
-category: blog
+
 ---
 
 I have created a Javascript Breadcrumbs script, but called it [YouAreHere](/projects/breadcrumbs) for reasons specified in the js file. Put the js file on your server, and link to it from every page. Create a DIV id'd "youarehere" and specify its style, or write the YouAreHere string out to any tag on your page. For more info see the js file.

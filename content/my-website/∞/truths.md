@@ -2,7 +2,7 @@ title: "Truths"
 description: "Minor commandments and truths."
 layout: post
 tags: creed
-category: blog
+
 ---
 
 - Alan Kay is almost definitely always right.

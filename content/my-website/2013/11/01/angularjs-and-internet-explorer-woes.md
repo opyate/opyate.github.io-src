@@ -5,7 +5,7 @@ image: "http://distilleryimage7.ak.instagram.com/3955ae5e433711e395a822000ae90d4
 image_content_type: "image/jpeg"
 layout: post
 tags: tech
-category: blog
+
 ---
 
 _Aka endless clicking on crossbrowsertesting.com and why I love being a backend programmer._

@@ -5,7 +5,7 @@ image: "http://www.twilio.com/packages/company/img/logos_downloadable_round.png"
 image_content_type: "image/png"
 layout: post
 tags: [tech, scala, twilio, pollarize]
-category: blog
+
 ---
 
 [Pollarize](http://pollarize.me) helps the world make up its mind via its beautiful, delightful suite of apps. However, not everyone owns a smartphone. Luckily, [Twilio](http://www.twilio.com/) brings voice and messaging to web and mobile applications. Which means that Pollarize now allows our brick-lugging friends to compose polls via SMS.

@@ -1,7 +1,7 @@
 layout: post
 title: Delete me!
 description: Another quick Markdown example for Plato.
-category: example
+
 tags: [tech,racket,markdown,hoedown]
 ---
 

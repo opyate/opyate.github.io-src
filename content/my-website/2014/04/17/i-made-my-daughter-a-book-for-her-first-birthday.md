@@ -5,7 +5,7 @@ image: "http://distilleryimage10.ak.instagram.com/da482076c5eb11e3aaef0002c9db4c
 image_content_type: "image/jpeg"
 layout: post
 tags: [book, fatherhood]
-category: blog
+
 ---
 
 <em>Made? Yes, made -- not wrote. See below.</em>

@@ -5,7 +5,7 @@ image: "http://i.imgur.com/lFPheH6.jpg"
 image_content_type: "image/jpeg"
 layout: post
 tags: startup
-category: blog
+
 ---
 
 As mentioned yesterday, I had a few things to do and the first step was finding out if my idea is viable. I sampled the list of Virtual Assistants, crowdsourcers, freelancers and classifieds [maintained here](http://www.fourhourworkweek.com/blog/2007/12/06/the-personal-outsourcing-olympics-bangalore-butler-or-american-assistant/).

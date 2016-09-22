@@ -5,7 +5,7 @@ image: "http://i.imgur.com/bd1Bh.png"
 image_content_type: "image/png"
 layout: post
 tags: [tech, scala, architecture, pollarize]
-category: blog
+
 ---
 
 *X-posted from the pollarize.me blog*

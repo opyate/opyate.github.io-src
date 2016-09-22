@@ -2,7 +2,7 @@ title: "Finishing"
 description: "Starting stuff is easy."
 layout: post
 tags: creed
-category: blog
+
 ---
 
 Often I'd like to start a new project, but shaving-the-yak quickly kicks in, and I start doing things like:

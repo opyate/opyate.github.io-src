@@ -5,7 +5,7 @@ image: "http://distilleryimage2.ak.instagram.com/02f13c2a0c5a11e3bc6522000ae9141
 image_content_type: "image/jpeg"
 layout: post
 tags: startup
-category: blog
+
 ---
 
 <img src="http://distilleryimage8.ak.instagram.com/a68dc3400c9011e3ae7f22000ae912b7_7.jpg" width="50%" align="right" alt="Art Hack #1 at Mozilla HQ 2012"> Developers, like any other human being, are constantly daydreaming about making it big. Be it the next Hot App or Google-killer. *Small and focused* gets us there most of the way. *Large and daunting* is an invitation to distractions and procrastination.

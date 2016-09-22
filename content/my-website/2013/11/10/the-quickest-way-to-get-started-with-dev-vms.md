@@ -5,7 +5,7 @@ image: "http://www.gravatar.com/avatar/c22bbf2aac2a3841d80f5363d73e3ebe.png?s=51
 image_content_type: "image/jpeg"
 layout: post
 tags: tech
-category: blog
+
 ---
 
 

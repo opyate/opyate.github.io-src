@@ -5,7 +5,7 @@ image: "http://amuseorbemused.com/wp-content/uploads/2011/12/Cartoon-Cussing-300
 image_content_type: "image/png"
 layout: post
 tags: tech
-category: blog
+
 ---
 
 …because it (or the shell) may not support UTF8.

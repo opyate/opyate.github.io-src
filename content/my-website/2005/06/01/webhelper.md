@@ -5,7 +5,7 @@ image: "https://en.gravatar.com/userimage/6287187/f520ea24392a6b8b2aa2722273caf3
 image_content_type: "image/jpeg"
 layout: post
 tags: [tech, javascript]
-category: blog
+
 ---
 
 

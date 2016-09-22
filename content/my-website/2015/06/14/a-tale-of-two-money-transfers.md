@@ -2,7 +2,7 @@ title: "A tale of two money transfers"
 description: "TransferWise and Barclays"
 layout: post
 tags: [life]
-category: blog
+
 ---
 
 I use GBP, and my contractor in Italy uses EUR, but we "talk" USD. The first payment came up, and I was recommended [TransferWise](https://transferwise.com) by my friends in the trenches. I go online to TransferWise and select USD from the dropdown, and go through all the steps. Finally, TransferWise tells me to send them money in Estonia from my Internet banking account, which I do.

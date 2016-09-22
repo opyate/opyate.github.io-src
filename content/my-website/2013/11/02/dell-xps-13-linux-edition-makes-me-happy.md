@@ -5,7 +5,7 @@ image: "http://25.media.tumblr.com/ee240ba31d3f2f3d04985380a78a7cb3/tumblr_mvmkb
 image_content_type: "image/jpeg"
 layout: post
 tags: tech
-category: blog
+
 ---
 
 <img src="http://25.media.tumblr.com/ee240ba31d3f2f3d04985380a78a7cb3/tumblr_mvmkbyrTe01ri2z5io1_1280.jpg" width="50%" align="right" alt="The portal to my livelihood."> *TL;DR* If you're a laptop-toting *nix user, then this is the laptop for you. Also, upgrade the kernel before you do anything else, for the best experience.

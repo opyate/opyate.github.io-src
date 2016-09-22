@@ -5,7 +5,7 @@ image: "http://newsimg.bbc.co.uk/media/images/47975000/jpg/_47975992_jex_710030_
 image_content_type: "image/jpeg"
 layout: post
 tags: startup
-category: blog
+
 ---
 
 [Last night](/2010/09/07/just-do-it.html) I wrote about letting go of procrastinations and making that first step towards your first startup. I’ll try to keep it short, because I have a lot of work to do ;-)

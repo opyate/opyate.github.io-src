@@ -2,7 +2,7 @@ title: "Add logging to PostgresQL on Docker"
 description: "A quick way to see what's going in and out of the database during development"
 layout: post
 tags: postgresql docker
-category: blog
+
 ---
 
 

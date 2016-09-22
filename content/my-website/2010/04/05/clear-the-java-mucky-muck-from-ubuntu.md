@@ -5,7 +5,7 @@ image: "http://distilleryimage2.ak.instagram.com/02f13c2a0c5a11e3bc6522000ae9141
 image_content_type: "image/jpeg"
 layout: post
 tags: [tech, java]
-category: blog
+
 ---
 
 # Java on Ubuntu

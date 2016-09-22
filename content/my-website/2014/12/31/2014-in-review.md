@@ -5,7 +5,7 @@ image: "https://raw.githubusercontent.com/opyate/opyate.github.io/master/res/wed
 image_content_type: "image/jpeg"
 layout: post
 tags: [tech, life]
-category: blog
+
 ---
 
 # Firstly...

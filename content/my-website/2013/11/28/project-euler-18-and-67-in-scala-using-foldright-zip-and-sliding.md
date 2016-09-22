@@ -5,7 +5,7 @@ image: "http://distilleryimage6.ak.instagram.com/267f6626581311e3986c12b308e0cf9
 image_content_type: "image/jpeg"
 layout: post
 tags: scala
-category: blog
+
 ---
 
 <img src="http://distilleryimage6.ak.instagram.com/267f6626581311e3986c12b308e0cf9c_8.jpg" width="50%" align="right"> I've recently applied to [Toptal](http://www.toptal.com/?ref=14568) and sucked miserably at the entry exam. My algo chops were blunt and I thought I'd rectify it by revisiting [Project Euler](http://projecteuler.net/). With the startup last year and the baby this year I just haven't been able to find the time for programming challenges, but that has to change.

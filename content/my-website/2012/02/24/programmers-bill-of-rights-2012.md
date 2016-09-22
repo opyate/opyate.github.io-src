@@ -5,7 +5,7 @@ image: "http://31.media.tumblr.com/tumblr_mb6m3suL8f1qlx0y9o1_500.jpg"
 image_content_type: "image/jpeg"
 layout: post
 tags: [tech, life]
-category: blog
+
 ---
 
 It’s time to collate the various programmers’ bills of rights on the Interwebs and update it for the current age. <a href="#¹">¹</a>

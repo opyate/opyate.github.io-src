@@ -5,7 +5,7 @@ image: "https://en.gravatar.com/userimage/6287187/f520ea24392a6b8b2aa2722273caf3
 image_content_type: "image/jpeg"
 layout: post
 tags: life
-category: blog
+
 ---
 
 In my dream I’m 12 again and we’re having the usual Saturday afternoon stir-fry at my maternal grandfather’s house. My mom’s 6 siblings and their partners are there, as well as all my partners in crime (aka cousins).

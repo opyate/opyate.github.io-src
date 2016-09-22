@@ -34,8 +34,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['/Users/juanuys/Documents/pelican-static-website-generator/pelican-plugins']
-PLUGINS = []
+#PLUGIN_PATHS = ['/Users/juanuys/Documents/pelican-static-website-generator/pelican-plugins']
+#PLUGINS = []
 
 PATH_METADATA = '(?P<category>.*)/(?P<date>\d{4}/\d{2}/\d{2})'
 #THEME = '/Users/juanuys/Documents/pelican-static-website-generator/grid-theme'
