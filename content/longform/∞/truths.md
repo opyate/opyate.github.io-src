@@ -2,6 +2,7 @@ title: "Truths"
 description: "Minor commandments and truths."
 layout: post
 tags: creed
+date: 1979-11-17
 
 ---
 
@@ -21,4 +22,3 @@ tags: creed
 - Edit ruthlessly. Don't hoard.
 - Check email once in the morning, and once in the evening.
 - Put your phone on the side-table. If it's important, someone will ring.
-
