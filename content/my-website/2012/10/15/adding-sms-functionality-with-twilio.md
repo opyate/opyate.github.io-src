@@ -4,7 +4,7 @@ og_image_url: "http://www.twilio.com/packages/company/img/logos_downloadable_rou
 image: "http://www.twilio.com/packages/company/img/logos_downloadable_round.png"
 image_content_type: "image/png"
 layout: post
-tags: tech, scala, twilio, pollarize]
+tags: tech, scala, twilio, pollarize
 
 ---
 

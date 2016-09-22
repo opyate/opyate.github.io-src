@@ -4,7 +4,7 @@ og_image_url: "http://1.bp.blogspot.com/-rIALnuq4xME/TtGDgnD3siI/AAAAAAAABwk/IP-
 image: "http://1.bp.blogspot.com/-rIALnuq4xME/TtGDgnD3siI/AAAAAAAABwk/IP-rYCMzxZs/s400/Hansel+Gretel+Wilkin.jpg"
 image_content_type: "image/jpeg"
 layout: post
-tags: tech, javascript]
+tags: tech, javascript
 
 ---
 

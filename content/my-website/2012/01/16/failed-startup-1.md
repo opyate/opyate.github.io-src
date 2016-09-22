@@ -4,7 +4,7 @@ og_image_url: "http://i.imgur.com/ENlAiHy.jpg"
 image: "http://i.imgur.com/ENlAiHy.jpg"
 image_content_type: "image/jpeg"
 layout: post
-tags: startup, failure]
+tags: startup, failure
 
 ---
 

@@ -4,7 +4,7 @@ og_image_url: "http://distilleryimage2.ak.instagram.com/02f13c2a0c5a11e3bc652200
 image: "http://distilleryimage2.ak.instagram.com/02f13c2a0c5a11e3bc6522000ae91414_7.jpg"
 image_content_type: "image/jpeg"
 layout: post
-tags: tech, java]
+tags: tech, java
 
 ---
 

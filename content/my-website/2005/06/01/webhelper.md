@@ -4,7 +4,7 @@ og_image_url: "https://en.gravatar.com/userimage/6287187/f520ea24392a6b8b2aa2722
 image: "https://en.gravatar.com/userimage/6287187/f520ea24392a6b8b2aa2722273caf380.jpg?size=512"
 image_content_type: "image/jpeg"
 layout: post
-tags: tech, javascript]
+tags: tech, javascript
 
 ---
 
