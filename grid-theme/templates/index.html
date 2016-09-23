@@ -7,18 +7,16 @@
 
 {% for article in articles_page.object_list %}
       <div class='el wwlf' data-category='wwlf'>
-        <article class="hentry">
-                <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
-                    <address class="vcard author">By
-                    {% for author in article.authors %}
-                        <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-                    {% endfor %}
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
-        </article>
+        <h3 class='title'>
+          <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+        </h3>
+        <p class='description'>{{ article.description }}</p>
+        <p class='tags'>
+          {%- for tag in article.tags|sort %}
+              <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+          {% endfor %}
+        </p>
+        <p class='date'>{{ article.locale_date }}</p>
       </div>
 {% endfor %}
 
