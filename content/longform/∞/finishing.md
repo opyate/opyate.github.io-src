@@ -1,5 +1,5 @@
-title: "Finishing"
-summary: "Starting stuff is easy."
+title: Finishing
+summary: Starting stuff is easy.
 
 tags: creed
 date: 1979-11-17

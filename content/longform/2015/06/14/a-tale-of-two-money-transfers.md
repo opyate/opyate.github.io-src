@@ -1,5 +1,5 @@
-title: "A tale of two money transfers"
-summary: "TransferWise and Barclays"
+title: A tale of two money transfers
+summary: TransferWise and Barclays
 
 tags: life
 

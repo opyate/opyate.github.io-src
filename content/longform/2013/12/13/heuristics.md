@@ -1,5 +1,5 @@
-title: "Heuristics"
-summary: "One of the most powerful concepts of all time."
+title: Heuristics
+summary: One of the most powerful concepts of all time.
 
 tags: tech
 

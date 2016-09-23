@@ -1,5 +1,5 @@
-title: "Twenty Fifteen"
-summary: "My uninformed thoughts on the year, again."
+title: Twenty Fifteen
+summary: My uninformed thoughts on the year, again.
 tags: tech, life
 
 ---

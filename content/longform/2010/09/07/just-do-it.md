@@ -1,5 +1,5 @@
-title: "Just do it."
-summary: "Choose the exact version of the JDK you want to install."
+title: Just do it.
+summary: Choose the exact version of the JDK you want to install.
 og_image_url: "http://distilleryimage2.ak.instagram.com/02f13c2a0c5a11e3bc6522000ae91414_7.jpg"
 image: "http://distilleryimage2.ak.instagram.com/02f13c2a0c5a11e3bc6522000ae91414_7.jpg"
 image_content_type: "image/jpeg"

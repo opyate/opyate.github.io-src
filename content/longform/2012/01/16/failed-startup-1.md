@@ -1,5 +1,5 @@
-title: "Failed startup #1"
-summary: "Failed startup #1"
+title: Failed startup #1
+summary: Failed startup #1
 og_image_url: "http://i.imgur.com/ENlAiHy.jpg"
 image: "http://i.imgur.com/ENlAiHy.jpg"
 image_content_type: "image/jpeg"

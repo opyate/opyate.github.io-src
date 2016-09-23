@@ -1,5 +1,5 @@
-title: "Truths"
-summary: "Minor commandments and truths."
+title: Truths
+summary: Minor commandments and truths.
 
 tags: creed
 date: 1979-11-17

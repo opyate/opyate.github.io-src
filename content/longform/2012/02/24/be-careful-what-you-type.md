@@ -1,5 +1,5 @@
-title: "Be careful what you type when using a terminal emulator…"
-summary: "Be careful what you type when using a terminal emulator…"
+title: Be careful what you type when using a terminal emulator…
+summary: Be careful what you type when using a terminal emulator…
 og_image_url: "http://amuseorbemused.com/wp-content/uploads/2011/12/Cartoon-Cussing-300x187.png"
 image: "http://amuseorbemused.com/wp-content/uploads/2011/12/Cartoon-Cussing-300x187.png"
 image_content_type: "image/png"

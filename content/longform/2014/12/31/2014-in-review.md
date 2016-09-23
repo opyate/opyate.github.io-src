@@ -1,5 +1,5 @@
-title: "2014 — the year in review"
-summary: "You heard me: a bit of blah blah about 2014."
+title: 2014 — the year in review
+summary: You heard me: a bit of blah blah about 2014.
 og_image_url: "https://raw.githubusercontent.com/opyate/opyate.github.io/master/res/wedding.jpg"
 image: "https://raw.githubusercontent.com/opyate/opyate.github.io/master/res/wedding.jpg"
 image_content_type: "image/jpeg"

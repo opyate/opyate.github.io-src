@@ -1,5 +1,5 @@
-title: "Using single and double pipes in Scala conditionals"
-summary: "Using single and double pipes in Scala conditionals"
+title: Using single and double pipes in Scala conditionals
+summary: Using single and double pipes in Scala conditionals
 
 tags: scala
 

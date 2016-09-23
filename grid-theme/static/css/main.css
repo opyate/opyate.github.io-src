@@ -105,9 +105,12 @@ body {
     margin: auto;
 }
 
+.el h3 {
+      margin-top: 20%;
+}
 h3 a {
     text-decoration: none;
-    color: #666
+    color: #666;
 }
 
 .el p.summary {

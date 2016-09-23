@@ -1,5 +1,5 @@
-title: "Project Euler 18 and 67 in Scala using foldRight, zip and sliding"
-summary: "Project Euler 18 and 67 in Scala using foldRight, zip and sliding"
+title: Project Euler 18 and 67 in Scala using foldRight, zip and sliding
+summary: Project Euler 18 and 67 in Scala using foldRight, zip and sliding
 og_image_url: "http://distilleryimage6.ak.instagram.com/267f6626581311e3986c12b308e0cf9c_8.jpg"
 image: "http://distilleryimage6.ak.instagram.com/267f6626581311e3986c12b308e0cf9c_8.jpg"
 image_content_type: "image/jpeg"

@@ -1,5 +1,5 @@
-title: "Programmer’s Bill Of Rights 2012"
-summary: "Programmer’s Bill Of Rights 2012"
+title: Programmer’s Bill Of Rights 2012
+summary: Programmer’s Bill Of Rights 2012
 og_image_url: "http://31.media.tumblr.com/tumblr_mb6m3suL8f1qlx0y9o1_500.jpg"
 image: "http://31.media.tumblr.com/tumblr_mb6m3suL8f1qlx0y9o1_500.jpg"
 image_content_type: "image/jpeg"

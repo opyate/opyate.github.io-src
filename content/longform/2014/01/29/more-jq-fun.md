@@ -1,5 +1,5 @@
-title: "More jq fun"
-summary: "More jq fun"
+title: More jq fun
+summary: More jq fun
 og_image_url: ""
 image: ""
 image_content_type: "image/png"

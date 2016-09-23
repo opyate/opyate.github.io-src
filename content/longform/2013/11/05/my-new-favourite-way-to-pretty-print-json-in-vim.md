@@ -1,5 +1,5 @@
-title: "Pretty-print JSON in vim"
-summary: "My new favourite way to pretty-print JSON in vim"
+title: Pretty-print JSON in vim
+summary: My new favourite way to pretty-print JSON in vim
 og_image_url: "http://distilleryimage10.ak.instagram.com/09fde780461511e3924b22000aaa05e0_8.jpg"
 image: "http://distilleryimage10.ak.instagram.com/09fde780461511e3924b22000aaa05e0_8.jpg"
 image_content_type: "image/jpeg"

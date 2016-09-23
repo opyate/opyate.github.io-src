@@ -1,5 +1,5 @@
-title: "Startup Day #2"
-summary: "Startup Day #2"
+title: Startup Day #2
+summary: Startup Day #2
 og_image_url: "http://i.imgur.com/lFPheH6.jpg"
 image: "http://i.imgur.com/lFPheH6.jpg"
 image_content_type: "image/jpeg"
