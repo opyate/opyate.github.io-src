@@ -1,8 +1,7 @@
 title: Finishing
 summary: Starting stuff is easy.
-
+date: 1979-11-17 06:05
 tags: creed
-date: 1979-11-17
 
 ---
 

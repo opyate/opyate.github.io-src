@@ -1,8 +1,7 @@
 title: Truths
 summary: Minor commandments and truths.
-
+date: 1979-11-17 06:05
 tags: creed
-date: 1979-11-17
 
 ---
 
@@ -12,7 +11,7 @@ date: 1979-11-17
 - Build upon what came before.
 - [S-expressions](https://en.wikipedia.org/wiki/S-expression) is the good way to program.
 - Don't use [silos](https://en.wikipedia.org/wiki/Information_silo), unless it's your own silo.
-- Invest in a good bed, good shoes and merino whool shirts without scratchy labels.
+- Invest in a good bed, good shoes and merino wool shirts without scratchy labels.
 - Get a tailored mix of micro-nutrients.
 - Move as often as possible. Movement through space is good, like jogging.
 - Read varied good books often.
