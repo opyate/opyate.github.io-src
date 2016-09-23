@@ -41,4 +41,4 @@ FILENAME_METADATA = '(?P<slug>.*)'
 PATH_METADATA = '(?P<category>[a-zA-Z]+)/(?P<date>\d{4}/\d{2}/\d{2})'
 USE_FOLDER_AS_CATEGORY = False
 
-THEME = '/Users/juanuys/Documents/pelican-static-website-generator/grid-theme'
+THEME = './grid-theme'
