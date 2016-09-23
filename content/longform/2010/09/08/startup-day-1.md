@@ -1,9 +1,9 @@
 title: "Startup Day #1"
-description: "Startup Day #1"
+summary: "Startup Day #1"
 og_image_url: "http://newsimg.bbc.co.uk/media/images/47975000/jpg/_47975992_jex_710030_de27.jpg"
 image: "http://newsimg.bbc.co.uk/media/images/47975000/jpg/_47975992_jex_710030_de27.jpg"
 image_content_type: "image/jpeg"
-layout: post
+
 tags: startup
 
 ---

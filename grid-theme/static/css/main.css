@@ -20,23 +20,23 @@ body {
     -webkit-justify-content: center;
     justify-content: center;
 }
-.el.wwlf {
+.el.longform {
     background: rgba(166, 205, 217, 0.42);
 }
 
-.el.wwlf .tags {
+.el.longform .tags {
     color: #8c6764;
 }
 
-.el.wwlf p {
+.el.longform p {
     padding-top: 10px;
 }
 
-.el.wwlf .category {
+.el.longform .category {
     display: none;
 }
 
-.el.wwlf .date {
+.el.longform .date {
     color: #c8b3b2;
     position: absolute;
     right: 10px;
@@ -51,7 +51,7 @@ body {
     padding-top: 10px;
 }
 
-.el.wwlf .content {
+.el.longform .content {
     /* nothing yet */
 }
 
@@ -105,30 +105,20 @@ body {
     margin: auto;
 }
 
-.el.title {
-    position: absolute;
-    left: 10px;
-    top: 60px;
-    text-transform: none;
-    letter-spacing: 0;
-    font-size: 12px;
-    font-weight: 400
+h3 a {
+    text-decoration: none;
+    color: #666
 }
 
-.el.description {
-    position: absolute;
-    left: 10px;
-    top: 0;
-    font-size: 42px;
-    font-weight: 700;
-    color: #fff
+.el p.summary {
+    display:none
 }
 
 .el.date,
 .el.icon {
     position: absolute;
     top: 76px;
-    font-size: 12px
+    font-size: 12px;
 }
 
 .el.date {

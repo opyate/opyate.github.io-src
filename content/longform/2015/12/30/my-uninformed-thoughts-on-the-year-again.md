@@ -1,6 +1,5 @@
 title: "Twenty Fifteen"
-description: "My uninformed thoughts on the year, again."
-layout: post
+summary: "My uninformed thoughts on the year, again."
 tags: tech, life
 
 ---

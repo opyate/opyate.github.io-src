@@ -1,6 +1,6 @@
 title: "Add logging to PostgresQL on Docker"
-description: "A quick way to see what's going in and out of the database during development"
-layout: post
+summary: "A quick way to see what's going in and out of the database during development"
+
 tags: postgresql docker
 
 ---

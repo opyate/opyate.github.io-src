@@ -1,9 +1,9 @@
 title: "Startup Day #6 — Doubts and hamsters"
-description: "Startup Day #6 — Doubts and hamsters"
+summary: "Startup Day #6 — Doubts and hamsters"
 og_image_url: "http://i.imgur.com/qOxPxX5.jpg"
 image: "http://i.imgur.com/qOxPxX5.jpg"
 image_content_type: "image/jpeg"
-layout: post
+
 tags: startup
 
 ---

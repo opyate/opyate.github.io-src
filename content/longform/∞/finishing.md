@@ -1,6 +1,6 @@
 title: "Finishing"
-description: "Starting stuff is easy."
-layout: post
+summary: "Starting stuff is easy."
+
 tags: creed
 date: 1979-11-17
 

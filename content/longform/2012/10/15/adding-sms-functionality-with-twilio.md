@@ -1,9 +1,9 @@
 title: "Adding SMS functionality with Twilio"
-description: "Adding SMS functionality with Twilio"
+summary: "Adding SMS functionality with Twilio"
 og_image_url: "http://www.twilio.com/packages/company/img/logos_downloadable_round.png"
 image: "http://www.twilio.com/packages/company/img/logos_downloadable_round.png"
 image_content_type: "image/png"
-layout: post
+
 tags: tech, scala, twilio, pollarize
 
 ---

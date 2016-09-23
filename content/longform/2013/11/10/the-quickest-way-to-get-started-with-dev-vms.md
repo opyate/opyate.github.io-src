@@ -1,9 +1,9 @@
 title: "A webwords Chef cookbook"
-description: "A webwords Chef cookbook"
+summary: "A webwords Chef cookbook"
 og_image_url: "http://www.gravatar.com/avatar/c22bbf2aac2a3841d80f5363d73e3ebe.png?s=512"
 image: "http://www.gravatar.com/avatar/c22bbf2aac2a3841d80f5363d73e3ebe.png?s=512"
 image_content_type: "image/jpeg"
-layout: post
+
 tags: tech
 
 ---

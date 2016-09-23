@@ -7,10 +7,10 @@
 
 {% for article in articles_page.object_list %}
       <div class='el {{ article.category }}' data-category='{{ article.category }}'>
-        <h3 class='title'>
+        <h3>
           <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
         </h3>
-        <p class='description'>{{ article.description }}</p>
+        <p class='summary'>{{ article.summary|striptags }}</p>
         <p class='tags'>
           {%- for tag in article.tags|sort %}
               <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>

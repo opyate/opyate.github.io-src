@@ -1,6 +1,6 @@
 title: "A tale of two money transfers"
-description: "TransferWise and Barclays"
-layout: post
+summary: "TransferWise and Barclays"
+
 tags: life
 
 ---

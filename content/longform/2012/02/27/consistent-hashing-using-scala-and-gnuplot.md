@@ -1,9 +1,9 @@
 title: "Consistent hashing with Scala"
-description: "Consistent hashing using Scala and gnuplot"
+summary: "Consistent hashing using Scala and gnuplot"
 og_image_url: "http://i.imgur.com/JSa0mQP.png"
 image: "http://i.imgur.com/JSa0mQP.png"
 image_content_type: "image/png"
-layout: post
+
 tags: tech, scala
 
 ---

@@ -1,6 +1,6 @@
 title: "Heuristics"
-description: "One of the most powerful concepts of all time."
-layout: post
+summary: "One of the most powerful concepts of all time."
+
 tags: tech
 
 ---

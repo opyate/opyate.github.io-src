@@ -1,6 +1,6 @@
 title: "Truths"
-description: "Minor commandments and truths."
-layout: post
+summary: "Minor commandments and truths."
+
 tags: creed
 date: 1979-11-17
 

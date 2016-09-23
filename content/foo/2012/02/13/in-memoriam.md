@@ -1,6 +1,6 @@
-layout: post
+
 title: Delete me!
-description: Another quick Markdown example for Plato.
+summary: Another quick Markdown example for Plato.
 
 tags: tech,racket,markdown,hoedown
 ---

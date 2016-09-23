@@ -1,9 +1,9 @@
 title: "More jq fun"
-description: "More jq fun"
+summary: "More jq fun"
 og_image_url: ""
 image: ""
 image_content_type: "image/png"
-layout: post
+
 tags: tech
 
 ---
