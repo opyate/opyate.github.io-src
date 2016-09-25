@@ -1,12 +1,7 @@
 title: Web TV
 summary: Web TV
-og_image_url: "http://images.fanpop.com/images/image_uploads/Old-School-TV-television-296019_1544_1500.jpg"
 image: "http://images.fanpop.com/images/image_uploads/Old-School-TV-television-296019_1544_1500.jpg"
-image_content_type: "image/jpeg"
-
 tags: tech, javascript
-
----
 
 This project failed miserably. Imagine a modern-day MPEG being decoded by a 25MHz 386 PC. Painfull. Well, that exactly what this project does for the modern computer (1.7GHz Pentium M).
 

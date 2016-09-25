@@ -1,12 +1,7 @@
 title: 2103 — the year's code and tooling in review
 summary: A few words about the new tools and skills I picked up in 2013, and my old favourites.
-og_image_url: "http://25.media.tumblr.com/650a566e7ccb9b0f292ce9c016206c14/tumblr_mygpxoJUpY1ri2z5io1_1280.jpg"
 image: "http://25.media.tumblr.com/650a566e7ccb9b0f292ce9c016206c14/tumblr_mygpxoJUpY1ri2z5io1_1280.jpg"
-image_content_type: "image/jpeg"
-
 tags: tech, life
-
----
 
 <img src="http://25.media.tumblr.com/650a566e7ccb9b0f292ce9c016206c14/tumblr_mygpxoJUpY1ri2z5io1_1280.jpg" width="50%" align="right"> I saw the #code2013 hashtag on Twitter last night and [joined in](https://twitter.com/opyate/status/417785250308444160). It got me thinking about the stuff around the programming languages I use, and my professional skillset in general.
 
@@ -59,5 +54,3 @@ I've always used Capistrano and Chef for my provisioning and configuration needs
 Thanks for reading this far. May you have a great 2014.
 
 *I leave you with a doodle I made a few days ago entitled "The Polar Bear who might have eaten Xmas". (Don't worry &mdash; this isn't one of my games ideas ;-)*
-
-

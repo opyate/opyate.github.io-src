@@ -1,10 +1,7 @@
 title: Heuristics
 summary: One of the most powerful concepts of all time.
-
+image: "https://placeholdit.imgix.net/~text?txtsize=33&txt=a+placeholder+image&w=350&h=350"
 tags: tech
-
----
-
 
 I recently saw a talk by Jack Dorsey where he iterates a list of commandments for this life, and number three is "drink only lemon water and red wine".
 

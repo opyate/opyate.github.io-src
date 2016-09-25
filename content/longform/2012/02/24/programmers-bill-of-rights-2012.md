@@ -1,12 +1,7 @@
 title: Programmer’s Bill Of Rights 2012
 summary: Programmer’s Bill Of Rights 2012
-og_image_url: "http://31.media.tumblr.com/tumblr_mb6m3suL8f1qlx0y9o1_500.jpg"
 image: "http://31.media.tumblr.com/tumblr_mb6m3suL8f1qlx0y9o1_500.jpg"
-image_content_type: "image/jpeg"
-
 tags: tech, life
-
----
 
 It’s time to collate the various programmers’ bills of rights on the Interwebs and update it for the current age. <a href="#¹">¹</a>
 
@@ -81,4 +76,3 @@ This is by no means an exhaustive list, and I'll be happy to hear what other pro
 <a name="¹">¹</a> This is obviously tongue-in-cheek, and programmers make no demands ;-)
 
 <a name="²">²</a> …and all the required ports will be open.
-

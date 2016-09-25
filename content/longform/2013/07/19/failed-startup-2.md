@@ -1,12 +1,7 @@
 title: Failed startup #2
 summary: Failed startup #2
-og_image_url: "http://i.imgur.com/ENlAiHy.jpg"
 image: "http://i.imgur.com/ENlAiHy.jpg"
-image_content_type: "image/jpeg"
-
 tags: startup, failure, pollarize
-
----
 
 *Pollarize* is a decision-making platform that makes it quicker and easier for you to query your friends across multiple social networks and gather their responses into one concise answer. I co-founded *pollarize* at Startup Weekend London, March 2012, which we won. Shortly after, we were accepted into Wayra UK, whom gave us enough money to work on releasing *pollarize* on iOS and web in December 2012. Sadly, we have since run out of cash and have failed to secure more funding.
 
@@ -21,35 +16,35 @@ This article is a retrospective.
 I won't re-tell the story of *pollarize's* beginnings, so I copy Mat's post from the old *pollarize* blog:
 
 > If superhero reboots have taught me anything over the past few years it’s that people love an origin story so I thought I’d share ours with you:
-> 
+>
 > At the most basic level *Pollarize* was born out of my long term courtship of Juan Uys, our CTO, and an indecisive iPad purchase.  
-> 
+>
 > Juan and I met for the first time at a Hacker News event in 2010 and I quickly identified him as the technical guru I needed to help me launch the startup I was working on. Unfortunately I discovered that Juan was working on his own project but the the two of us stayed in touch and ended up becoming friends instead.
-> 
+>
 > Fast forward a year and a half and both of our previous projects have gone the way of the dodo so we decided to team up and attend London Startup Weekend. We met up towards the end of March of this year, a week or so before the event, and threw a few ideas around, including an idea borne out of my experience trying to decide which iPad version (3G vs. Extra Memory) I should buy…
-> 
+>
 > Startup Weekend London was an awesome experience. I’d spoken to people that had attend similar events before so I knew that the key to doing well was forming a small, manageable, team and executing as quickly as possible. With Juan on board and taking care of the back end we set out to fill the gaps in our team as quickly as possible and recruited Michael Hobson to look after design and Sara Gozalo to focus on front end development.
-> 
-> We learnt a lot over the course of that weekend - I got further with a startup in those 54 hours than I had in a year of trying - but most importantly we went on to win.  Winning that event had two major outcomes: 
-> 
-> 
+>
+> We learnt a lot over the course of that weekend - I got further with a startup in those 54 hours than I had in a year of trying - but most importantly we went on to win.  Winning that event had two major outcomes:
+>
+>
 > * It was a great validation of the project and encouraged us to continue with it after the event.
 > * It introduced us to the team behind Wayra UK - the weekend’s primary sponsors.
-> 
+>
 > In light of this we decided to continue the project after we left Startup Weekend and also began the process of applying to accelerators.  
-> 
+>
 > Unfortunately we had to part ways with Sara at this point due to her other commitments and Juan quickly brought Phil Cole on board to take over front end development work.
-> 
+>
 > A month or so later we made it through the final stage of selection at Wayra and became one of the first 16 teams to participate in Wayra UK.
-> 
+>
 > A month after that we moved into the Wayra Academy as one of, if not the, earliest stage teams in the program and set about starting again from scratch.
-> 
+>
 > It’s been 8 months since the Startup Weekend pitch that kicked all of this off and we’re still to break the ‘heads-down and execute like hell’ initiative that brought us that initial success. We have a wait list of 1,500 potential users signed up already, the second version of our iOS app in the app store and a brand new web app experience.  It’s very early days for us but you can be sure that we’re giving it our best shot.  
-> 
+>
 > I’d like to take this quick opportunity to thank my team, our early adopters and all the people that have supported us behind the scenes - *Pollarize* may have been born out of an iPad purchase but it’s growing into something bigger thanks to the awesome group of people involved in the project.
-> 
+>
 > Cheers,
-> 
+>
 > Mat
 
 ## Wayra Academy
@@ -78,7 +73,7 @@ We spoke, we demo'd, we networked with other startups and got the buzz going. Th
 
 ## Big Bang
 
-Big bang? No: crash and burn. We failed to secure funding. We pivoted, then re-pivoted in a panic to make ourselves matter. We desperately wanted to stick together as a team and make more stuff. We do sometimes wonder if we were in a different startup environment if things would have panned out differently. Besides, we weren't the only ones making opinion apps: there are [Amen](https://getamen.com/classic), [Thumb](http://thumb.it/), [Polar](http://polarb.com/) and others. 
+Big bang? No: crash and burn. We failed to secure funding. We pivoted, then re-pivoted in a panic to make ourselves matter. We desperately wanted to stick together as a team and make more stuff. We do sometimes wonder if we were in a different startup environment if things would have panned out differently. Besides, we weren't the only ones making opinion apps: there are [Amen](https://getamen.com/classic), [Thumb](http://thumb.it/), [Polar](http://polarb.com/) and others.
 
 We started an agency called [Strange](http://meetstrange.com/), heavily inspired by [BERG](http://berglondon.com/). All of us, however, went on to separate things, because bills needed paying, and our respective better halves couldn't sustain us too much longer. (My story is slightly different. Having kept my day job, the missus really just needed some help with the [renovations](http://pits-to-palace.tumblr.com) already!)
 
@@ -91,4 +86,3 @@ We are doing great, though. Phil went on to work (and take equity in) one of the
 Now, I just have to wait for the guys to become slightly more available again so we can hack up our Next Big Thing. We did everything perfectly before, but the world just wasn't ready. Our next product will be perfect again, but it won't be free ;-)
 
 Thanks for reading.
-

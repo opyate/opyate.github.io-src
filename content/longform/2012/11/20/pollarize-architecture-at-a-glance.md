@@ -1,12 +1,7 @@
 title: Pollarize architecture at a glance
 summary: Pollarize architecture at a glance
-og_image_url: "http://i.imgur.com/bd1Bh.png"
 image: "http://i.imgur.com/bd1Bh.png"
-image_content_type: "image/png"
-
 tags: tech, scala, architecture, pollarize
-
----
 
 *X-posted from the pollarize.me blog*
 

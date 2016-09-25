@@ -1,12 +1,7 @@
 title: A dream and a lesson
 summary: A dream reminded me that you have to believe in yourself.
-og_image_url: "https://en.gravatar.com/userimage/6287187/f520ea24392a6b8b2aa2722273caf380.jpg?size=512"
 image: "https://en.gravatar.com/userimage/6287187/f520ea24392a6b8b2aa2722273caf380.jpg?size=512"
-image_content_type: "image/jpeg"
-
 tags: life
-
----
 
 In my dream I’m 12 again and we’re having the usual Saturday afternoon stir-fry at my maternal grandfather’s house. My mom’s 6 siblings and their partners are there, as well as all my partners in crime (aka cousins).
 
@@ -62,4 +57,4 @@ I suppose this is what people call “vision”. It takes someone with equal amo
 
 “Trust me on this one.” ;-)
 
-¹ *I guess Perl will still be The Hammer and every web problem will be The Nail, so better brush up on some Perl ;-)* 
+¹ *I guess Perl will still be The Hammer and every web problem will be The Nail, so better brush up on some Perl ;-)*

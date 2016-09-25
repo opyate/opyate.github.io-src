@@ -1,12 +1,7 @@
 title: Read Receipts for the rest of us
 summary: Read Receipts for the rest of us
-og_image_url: "http://i.imgur.com/t6oOMxg.jpg"
 image: "http://i.imgur.com/t6oOMxg.jpg"
-image_content_type: "image/jpeg"
-
 tags: tech
-
----
 
 Or, more correctly: Read Receipts for geeks who use [iTerm](http://www.iterm2.com/) and/or [Growl](http://growl.info/).
 

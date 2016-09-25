@@ -1,12 +1,7 @@
 title: Pretty-print JSON in vim
 summary: My new favourite way to pretty-print JSON in vim
-og_image_url: "http://distilleryimage10.ak.instagram.com/09fde780461511e3924b22000aaa05e0_8.jpg"
 image: "http://distilleryimage10.ak.instagram.com/09fde780461511e3924b22000aaa05e0_8.jpg"
-image_content_type: "image/jpeg"
-
 tags: tech
-
----
 
 <img src="http://distilleryimage10.ak.instagram.com/09fde780461511e3924b22000aaa05e0_8.jpg" width="50%" align="right" alt="jq to the res-q."> ** *TL;DR* A quick way to pretty-print JSON in vim with no dependencies (here's looking at you, Perl). Download [jq](http://stedolan.github.io/jq/) then <code>:%!jq '.'</code>**
 

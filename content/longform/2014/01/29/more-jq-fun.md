@@ -1,12 +1,7 @@
 title: More jq fun
 summary: More jq fun
-og_image_url: ""
-image: ""
-image_content_type: "image/png"
-
+image: "https://placeholdit.imgix.net/~text?txtsize=33&txt=a+placeholder+image&w=350&h=350"
 tags: tech
-
----
 
 I've [written about](2013/11/05/my-new-favourite-way-to-pretty-print-json-in-vim.html) [jq](http://stedolan.github.io/jq/) before, but I mention it again here as a very useful tool for parsing JSON on the command line.
 

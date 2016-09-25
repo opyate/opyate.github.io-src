@@ -1,8 +1,7 @@
 title: Twenty Fifteen
 summary: My uninformed thoughts on the year, again.
+image: "https://placeholdit.imgix.net/~text?txtsize=33&txt=a+placeholder+image&w=350&h=350"
 tags: tech, life
-
----
 
 Let's make this a quick one. I'm a busy dad, you know.
 

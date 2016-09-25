@@ -1,12 +1,7 @@
 title: Failed startup #1
 summary: Failed startup #1
-og_image_url: "http://i.imgur.com/ENlAiHy.jpg"
 image: "http://i.imgur.com/ENlAiHy.jpg"
-image_content_type: "image/jpeg"
-
 tags: startup, failure
-
----
 
 It just so happened that I was writing a post about information overload on 2010.09.19, when a startup opportunity with a couple of cofounders fell into my lap. Needless to say, that post went unpublished, and I jumped straight into my new challenge.
 

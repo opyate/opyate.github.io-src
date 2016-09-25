@@ -1,12 +1,7 @@
 title: 2014 — the year in review
 summary: You heard me: a bit of blah blah about 2014.
-og_image_url: "https://raw.githubusercontent.com/opyate/opyate.github.io/master/res/wedding.jpg"
 image: "https://raw.githubusercontent.com/opyate/opyate.github.io/master/res/wedding.jpg"
-image_content_type: "image/jpeg"
-
 tags: tech, life
-
----
 
 # Firstly...
 
@@ -42,7 +37,7 @@ I've been really doubling down on Clojure this year for fun, throw-away side pro
 
 So, I've always been a Ruby fan, and always wanted to be able to mention Erlang as one of my top few skills, but yuck... Erlang! It's like trying to do a Shakespeare recital with a mouth full of mud. That didn't make any sense, but Elixir does. Still a bit fast moving, so I'm not doing anything big in it, but watch this space.
 
-**UPDATE 2015-03-13** 
+**UPDATE 2015-03-13**
 
 After working with Erlang a bit more (and reading <a href="http://ferd.ca/on-erlang-s-syntax.html">this</a>), I stand thoroughly corrected, and don't mind it at all.
 

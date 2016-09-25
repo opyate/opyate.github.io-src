@@ -3,8 +3,6 @@ summary: Starting stuff is easy.
 date: 1979-11-17 06:05
 tags: creed
 
----
-
 Often I'd like to start a new project, but shaving-the-yak quickly kicks in, and I start doing things like:
 
 # Writing all the software from scratch

@@ -1,7 +1,7 @@
 title: In Memoriam A.H.H. by Lord Alfred Tennyson
 summary: Section CXXIII
+image: "https://placeholdit.imgix.net/~text?txtsize=33&txt=a+placeholder+image&w=350&h=350"
 tags: poetry
----
 
 # In Memoriam
 

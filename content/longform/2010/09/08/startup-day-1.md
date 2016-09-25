@@ -1,12 +1,7 @@
 title: Startup Day #1
 summary: Startup Day #1
-og_image_url: "http://newsimg.bbc.co.uk/media/images/47975000/jpg/_47975992_jex_710030_de27.jpg"
 image: "http://newsimg.bbc.co.uk/media/images/47975000/jpg/_47975992_jex_710030_de27.jpg"
-image_content_type: "image/jpeg"
-
 tags: startup
-
----
 
 [Last night](/2010/09/07/just-do-it.html) I wrote about letting go of procrastinations and making that first step towards your first startup. I’ll try to keep it short, because I have a lot of work to do ;-)
 

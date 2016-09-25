@@ -3,8 +3,6 @@ summary: Minor commandments and truths.
 date: 1979-11-17 06:05
 tags: creed
 
----
-
 - Alan Kay is almost definitely always right.
 - Simpler is better, but no simpler.
 - Show, don't tell.

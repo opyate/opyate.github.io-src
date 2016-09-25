@@ -1,12 +1,7 @@
 title: DB Bean Creator for Java and MySQL/PostgresQL
 summary: DB Bean Creator for Java and MySQL/PostgresQL
-og_image_url: "http://interhacker.files.wordpress.com/2011/12/dukewave1.png"
 image: "http://interhacker.files.wordpress.com/2011/12/dukewave1.png"
-image_content_type: "image/png"
-
 tags: tech, java
-
----
 
 I present the [DB Bean Creator for Java and MySQL/PostgresQL](/projects/dbbeancreator).
 

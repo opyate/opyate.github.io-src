@@ -1,13 +1,7 @@
 title: A webwords Chef cookbook
 summary: A webwords Chef cookbook
-og_image_url: "http://www.gravatar.com/avatar/c22bbf2aac2a3841d80f5363d73e3ebe.png?s=512"
 image: "http://www.gravatar.com/avatar/c22bbf2aac2a3841d80f5363d73e3ebe.png?s=512"
-image_content_type: "image/jpeg"
-
 tags: tech
-
----
-
 
 There are a lot of [new examples](http://typesafe.com/activator/templates) up on the Typesafe website, a few with the word "Reactive" in them to drive home the [credo](http://www.reactivemanifesto.org/) behind the framework. One of my favourite examples, however, seem to have been demoted but still remains one of my favourites: [webwords](https://github.com/typesafehub/webwords).
 
@@ -28,7 +22,7 @@ The original blog post was going to be a guide to getting webwords cookbook work
 Remove these two lines from the newly-generated Vagrantfile:
 
   config.ssh.max_tries = 40
-  config.ssh.timeout   = 120 
+  config.ssh.timeout   = 120
 
 These switches have been deprecated.
 
@@ -68,7 +62,7 @@ Welcome to Ubuntu 12.04.3 LTS (GNU/Linux 3.2.0-55-generic x86_64)
 0 packages can be updated.
 0 updates are security updates.
 
-vagrant@chef-server:~$ 
+vagrant@chef-server:~$
 
 </code>
 
@@ -122,19 +116,19 @@ Output should look like the following:
 <pre>
 ~/V/chef-client ❯❯❯ knife configure -i
 WARNING: No knife configuration file found
-Where should I put the config file? [/home/opyate/.chef/knife.rb] 
+Where should I put the config file? [/home/opyate/.chef/knife.rb]
 Please enter the chef server URL: [https://annabelle:443] https://chef-server:443
-Please enter a name for the new user: [opyate] 
-Please enter the existing admin name: [admin] 
+Please enter a name for the new user: [opyate]
+Please enter the existing admin name: [admin]
 Please enter the location of the existing admin's private key: [/etc/chef-server/admin.pem] ~/.chef/admin.pem
-Please enter the validation clientname: [chef-validator] 
+Please enter the validation clientname: [chef-validator]
 Please enter the location of the validation key: [/etc/chef-server/chef-validator.pem] ~/.chef/chef-validator.pem
-Please enter the path to a chef repository (or leave blank): 
+Please enter the path to a chef repository (or leave blank):
 Creating initial API user...
-Please enter a password for the new user: 
+Please enter a password for the new user:
 Created user[opyate]
 Configuration file written to /home/opyate/.chef/knife.rb
-~/V/chef-client ❯❯❯ 
+~/V/chef-client ❯❯❯
 
 </pre>
 

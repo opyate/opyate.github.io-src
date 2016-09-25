@@ -1,18 +1,13 @@
 title: AngularJS and Internet Explorer woes
 summary: Aka endless clicking on crossbrowsertesting.com and why I love being a backend programmer.
-og_image_url: "http://distilleryimage7.ak.instagram.com/3955ae5e433711e395a822000ae90d43_8.jpg"
 image: "http://distilleryimage7.ak.instagram.com/3955ae5e433711e395a822000ae90d43_8.jpg"
-image_content_type: "image/jpeg"
-
 tags: tech
-
----
 
 _Aka endless clicking on crossbrowsertesting.com and why I love being a backend programmer._
 
 <img src="http://distilleryimage7.ak.instagram.com/3955ae5e433711e395a822000ae90d43_8.jpg" width="50%" align="right" alt="AngularJS and Internet Exporer woes"> A few weeks ago, one of my clients tasked me with building a public-facing single page app for their credit monitoring business. They've heard good things about [AngularJS](http://angularjs.org/) and said they wouldn't mind if I learned it on the job. (I love those kinds of clients!)
 
-At this point we've already solidified the backend API ([Scala](http://scala-lang.org/) + [Play! 2.1.3](http://www.playframework.com/documentation/2.1.x/ScalaHome)) and felt like getting my hands dirty with our good friend Javascript. 
+At this point we've already solidified the backend API ([Scala](http://scala-lang.org/) + [Play! 2.1.3](http://www.playframework.com/documentation/2.1.x/ScalaHome)) and felt like getting my hands dirty with our good friend Javascript.
 
 # At first, it was easy
 

@@ -1,12 +1,7 @@
 title: Startup Day #6 — Doubts and hamsters
 summary: Startup Day #6 — Doubts and hamsters
-og_image_url: "http://i.imgur.com/qOxPxX5.jpg"
 image: "http://i.imgur.com/qOxPxX5.jpg"
-image_content_type: "image/jpeg"
-
 tags: startup
-
----
 
 Last week I put my Turk to work and started ticking some things off of the to-do list. Some “allowed” distractions set in, since I wanted to see how I felt after a whole weekend away from my startup
 

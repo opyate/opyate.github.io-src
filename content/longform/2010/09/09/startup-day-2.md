@@ -1,12 +1,7 @@
 title: Startup Day #2
 summary: Startup Day #2
-og_image_url: "http://i.imgur.com/lFPheH6.jpg"
 image: "http://i.imgur.com/lFPheH6.jpg"
-image_content_type: "image/jpeg"
-
 tags: startup
-
----
 
 As mentioned yesterday, I had a few things to do and the first step was finding out if my idea is viable. I sampled the list of Virtual Assistants, crowdsourcers, freelancers and classifieds [maintained here](http://www.fourhourworkweek.com/blog/2007/12/06/the-personal-outsourcing-olympics-bangalore-butler-or-american-assistant/).
 
@@ -44,7 +39,7 @@ The contractor I targeted rejected me, but a contractor called ‘K’ took the 
 
 However, after a few email to-and-fros it turns out that ‘K’ is really interested in developing a mobile application for me. I revised everything: $8 is sufficient for what should not take more than 10 minutes to do; my job wording was clear; my requirements weren’t too steep (e.g. 4 out of 5 star rating and basic English required). Have a look for yourself:
 
-<img src="http://funkshional.files.wordpress.com/2010/09/odesk.png" width="100%" alt="Result of posting a job on ODesk">	
+<img src="http://funkshional.files.wordpress.com/2010/09/odesk.png" width="100%" alt="Result of posting a job on ODesk">
 
 I also posted a job on **Craigslist**‘s UK site. It’s similarly worded and the fixed price is £5. No replies thus far.
 

@@ -1,12 +1,7 @@
 title: Consistent hashing with Scala
 summary: Consistent hashing using Scala and gnuplot
-og_image_url: "http://i.imgur.com/JSa0mQP.png"
 image: "http://i.imgur.com/JSa0mQP.png"
-image_content_type: "image/png"
-
 tags: tech, scala
-
----
 
 I recently got into [Riak](http://basho.com/products/riak-overview/), and subsequently [Consistent Hashing](http://en.wikipedia.org/wiki/Consistent_hashing), and found the referenced [Java implementation](http://www.lexemetech.com/2007/11/consistent-hashing.html) quite a delightful and informative read.
 

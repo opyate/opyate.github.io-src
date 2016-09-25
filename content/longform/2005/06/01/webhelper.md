@@ -1,13 +1,7 @@
 title: WebHelper
 summary: WebHelper
-og_image_url: "https://en.gravatar.com/userimage/6287187/f520ea24392a6b8b2aa2722273caf380.jpg?size=512"
 image: "https://en.gravatar.com/userimage/6287187/f520ea24392a6b8b2aa2722273caf380.jpg?size=512"
-image_content_type: "image/jpeg"
-
 tags: tech, javascript
-
----
-
 
 Some intranet applications (and some unintuitive web applications) can be confusing at times regarding navigation and how to get a task done. Training can be expensive.
 

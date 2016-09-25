@@ -1,12 +1,7 @@
 title: Breadcrumbs with Javascript
 summary: Breadcrumbs with Javascript
-og_image_url: "http://1.bp.blogspot.com/-rIALnuq4xME/TtGDgnD3siI/AAAAAAAABwk/IP-rYCMzxZs/s400/Hansel+Gretel+Wilkin.jpg"
 image: "http://1.bp.blogspot.com/-rIALnuq4xME/TtGDgnD3siI/AAAAAAAABwk/IP-rYCMzxZs/s400/Hansel+Gretel+Wilkin.jpg"
-image_content_type: "image/jpeg"
-
 tags: tech, javascript
-
----
 
 I have created a Javascript Breadcrumbs script, but called it [YouAreHere](/projects/breadcrumbs) for reasons specified in the js file. Put the js file on your server, and link to it from every page. Create a DIV id'd "youarehere" and specify its style, or write the YouAreHere string out to any tag on your page. For more info see the js file.
 

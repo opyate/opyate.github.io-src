@@ -9,6 +9,21 @@ body {
     background: #fff
 }
 
+p.tags a:link {
+  color: #97748f;
+  /*color: #d9a6cd;*/
+  text-decoration: none;
+}
+p.tags a:visited {
+  color: #8490ad;
+  /*color: #a6b4d9;*/
+  text-decoration: none;
+}
+p.tags a:hover {
+  color: inherit;
+  text-decoration: underline;;
+}
+
 .el.x {
     background: #A4E6D1;
 }
@@ -43,11 +58,11 @@ body {
     bottom: 10px;
 }
 
-.el.wwsf {
+.el.chirps {
     background: #FBFFDD
 }
 
-.el.wwsf p {
+.el.chirps p {
     padding-top: 10px;
 }
 
@@ -55,7 +70,7 @@ body {
     /* nothing yet */
 }
 
-.el.wwsf .date {
+.el.chirps .date {
     color: #c8b3b2;
     position: absolute;
     right: 10px;
