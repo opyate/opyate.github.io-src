@@ -6,7 +6,9 @@
 {% endblock %}
 
 {% for article in articles_page.object_list %}
-      <div class='el {{ article.category }}' data-category='{{ article.category }}'>
+  <div class='el {{ article.category }}' data-category='{{ article.category }}'>
+    {% if article.category == 'longform' %}
+
         <h3>
           <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
         </h3>
@@ -17,7 +19,14 @@
           {% endfor %}
         </p>
         <p class='date'>{{ article.locale_date }}</p>
-      </div>
+
+    {% elif article.category == 'chirps' %}
+
+      <p class='content'>{{ article.content|striptags }}</p>
+      <p class='date'>{{ article.locale_date }}</p>
+
+    {% endif %}
+  </div>
 {% endfor %}
 
 {% if articles_page.has_other_pages() %}

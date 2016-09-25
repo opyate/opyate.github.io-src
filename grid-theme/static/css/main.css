@@ -9,18 +9,21 @@ body {
     background: #fff
 }
 
-p.tags a:link {
-  color: #97748f;
-  /*color: #d9a6cd;*/
+p.tags a {
   text-decoration: none;
+  padding: 3px 5px;
+}
+p.tags a:link {
+  background-color: #97748f;
+  color: white;
 }
 p.tags a:visited {
-  color: #8490ad;
-  /*color: #a6b4d9;*/
-  text-decoration: none;
+  background-color: #8490ad;
+  color: white;
 }
 p.tags a:hover {
-  color: inherit;
+  background-color: white;
+  color: black;
   text-decoration: underline;;
 }
 
@@ -51,30 +54,29 @@ p.tags a:hover {
     display: none;
 }
 
-.el.longform .date {
+.date {
     color: #c8b3b2;
     position: absolute;
     right: 10px;
     bottom: 10px;
+    font-family: monospace;
 }
 
 .el.chirps {
-    background: #FBFFDD
+    background: #333;
 }
 
 .el.chirps p {
     padding-top: 10px;
 }
 
-.el.longform .content {
-    /* nothing yet */
+.el.chirps .content {
+    color: #FBFFDD;
+    font-family: monospace;
 }
 
-.el.chirps .date {
-    color: #c8b3b2;
-    position: absolute;
-    right: 10px;
-    bottom: 10px;
+.el.longform .content {
+    /* nothing yet */
 }
 
 .el.project {
@@ -130,17 +132,6 @@ h3 a {
 
 .el p.summary {
     display:none
-}
-
-.el.date,
-.el.icon {
-    position: absolute;
-    top: 76px;
-    font-size: 12px;
-}
-
-.el.date {
-    left: 10px
 }
 
 .el.icon {

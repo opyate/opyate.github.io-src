@@ -1,6 +1,0 @@
-:title: My super title
-:tags: thats, awesome
-:slug: my-super-post
-:summary: Short version for index and feeds
-
-Just read Montesorri, now reading Holt. Any dads want to share war stories about alternative schooling?

@@ -1,7 +1,7 @@
 title: Add logging to PostgresQL on Docker
 summary: A quick way to see what's going in and out of the database during development
 image: "https://placeholdit.imgix.net/~text?txtsize=33&txt=a+placeholder+image&w=350&h=350"
-tags: postgresql docker
+tags: postgresql, docker
 
 Normally, in ```docker-compose.yml```  I would just configure a database like this:
 
