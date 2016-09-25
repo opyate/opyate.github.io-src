@@ -1,1 +1,3 @@
+Title: chirp
+
 Bit disconcerting suddenly getting a "Permissions 0664 for '/home/me/.ssh/id_rsa' are too open."

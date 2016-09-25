@@ -1,2 +1,4 @@
+Title: chirp
+
 RT <a href="http://twitter.com/jongold">@jongold</a>: “If you work in a big Java shop you really need a scrum master”
 “If you work in a big Java shop you really need to reassess yo…

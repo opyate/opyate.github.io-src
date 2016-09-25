@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/50ShedsofGrey">@50ShedsofGrey</a>: Staring at her naked body, I asked what she wanted. She told me to go for something between a smack and a stroke. So  ...

@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/Krinkle8">@Krinkle8</a>: Imagine a system where a man gives you a chuck-e-cheese token every hour you let your car idle. Realize that system exists an…

@@ -1,1 +1,3 @@
+Title: chirp
+
 Gotta ♥ the composability of #scala #playframework actions. I now have one which spits out CORS headers, extracts the user and GEO headers.

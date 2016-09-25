@@ -1,1 +1,3 @@
+Title: chirp
+
 <a href="http://twitter.com/typesafe">@typesafe</a>  2 things: Google Group, and how to upgrade typesafe stack without running uninstaller first?

@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/natesbrain">@natesbrain</a>: In the future, hundreds of programmers will be removed from the gene pool while implementing Asimov's first law test first

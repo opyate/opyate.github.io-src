@@ -1,1 +1,3 @@
+Title: chirp
+
 Is software "craftsmanship" and startup-esque rapid iteration mutually exclusive? TL;DR -- gotta launch this week.

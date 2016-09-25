@@ -1,1 +1,3 @@
+Title: chirp
+
 I want to delete one of my G+ pages, but the big red button says "DELETE GOOGLE ACCOUNT". Sounds dangerous. /cc <a href="http://twitter.com/google">@google</a>

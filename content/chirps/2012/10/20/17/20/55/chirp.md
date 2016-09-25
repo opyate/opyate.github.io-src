@@ -1,1 +1,3 @@
+Title: chirp
+
 update login set bio = 'Pollarize CTO. I update my bio directly in the database. Because I can.' where email = 'juan@... <a href="http://twitter.com/pollarizeme">@pollarizeme</a>

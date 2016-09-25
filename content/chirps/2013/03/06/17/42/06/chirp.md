@@ -1,1 +1,3 @@
+Title: chirp
+
 On Grooveshark / "who uploads an MP3 with this much clipping?" / Turns out I was listening to a glitch artist. <a href="http://t.co/QDjVV2afLA">http://t.co/QDjVV2afLA</a>

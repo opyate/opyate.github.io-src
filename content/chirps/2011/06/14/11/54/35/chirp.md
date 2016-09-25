@@ -1,1 +1,3 @@
+Title: chirp
+
 Good summary of the GroupOn scenario: <a href="http://thebln.com/2011/06/groupon-ponzi-schemes-insolvency-the-next-amazon-and-proxy-valuations/">http://thebln.com/2011/06/groupon-ponzi-schemes-insolvency-the-next-amazon-and-proxy-valuations/</a>

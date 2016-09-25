@@ -1,1 +1,3 @@
+Title: chirp
+
 There comes a time in a man's life when he has to build his own Chef server... and that time is now. /cc <a href="http://twitter.com/opscode">@opscode</a>

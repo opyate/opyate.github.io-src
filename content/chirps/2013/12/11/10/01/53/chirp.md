@@ -1,1 +1,3 @@
+Title: chirp
+
 Emailing a scan to myself with <a href="http://twitter.com/HP">@HP</a> PhotoSmart: 8 button taps with almost 30 seconds wait between each. Shirley...

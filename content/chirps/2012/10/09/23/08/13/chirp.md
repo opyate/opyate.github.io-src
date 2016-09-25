@@ -1,1 +1,3 @@
+Title: chirp
+
 <a href="http://twitter.com/fcw">@fcw</a> I understand how "different locations" is a consequence of the encryption scheme under discussion. Judged too quickly, I suppose.

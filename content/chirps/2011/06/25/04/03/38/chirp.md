@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/KentBeck">@KentBeck</a>: "A startup is a race to build something truly of value to world" Thoughtful reflection on productive failure: <a href="http://bit.l">http://bit.l</a> ...

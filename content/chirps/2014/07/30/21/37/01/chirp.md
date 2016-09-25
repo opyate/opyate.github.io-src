@@ -1,1 +1,3 @@
+Title: chirp
+
 Any curved sound bars available to go with the Samsung curved TV?

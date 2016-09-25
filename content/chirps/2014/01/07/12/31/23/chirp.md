@@ -1,1 +1,3 @@
+Title: chirp
+
 Can anyone recommend a solar panel setup with which to trickle-charge a <a href="http://twitter.com/Dremel">@Dremel</a> multitool?

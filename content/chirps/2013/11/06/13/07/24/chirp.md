@@ -1,1 +1,3 @@
+Title: chirp
+
 Full stack #Scala dev just became available. Previous project was a credit monitoring system for a client in California. Remote only.

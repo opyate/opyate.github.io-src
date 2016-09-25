@@ -1,1 +1,3 @@
+Title: chirp
+
 When faced with two of more alternatives that deliver roughly the same value, take the path that makes future change easier.

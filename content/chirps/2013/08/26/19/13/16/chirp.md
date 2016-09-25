@@ -1,1 +1,3 @@
+Title: chirp
+
 I'm taking Computational Investing, Part I from <a href="http://twitter.com/georgiatech">@georgiatech</a> on <a href="http://twitter.com/Coursera">@Coursera</a>! <a href="https://t.co/qQCr063A8O">https://t.co/qQCr063A8O</a> #compinvesting1

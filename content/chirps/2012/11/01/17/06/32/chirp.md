@@ -1,1 +1,3 @@
+Title: chirp
+
 Haha! RT <a href="http://twitter.com/jplindstrom">@jplindstrom</a> Holy shit! Again, Japanese ingenuity shows itself to be ridiculous/awesome in equal measure <a href="http://t.co/cbyjKawT">http://t.co/cbyjKawT</a>

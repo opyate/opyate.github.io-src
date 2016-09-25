@@ -1,1 +1,3 @@
+Title: chirp
+
 Nice one, GIMP... You're now crashing my *nix AND Mac machines.

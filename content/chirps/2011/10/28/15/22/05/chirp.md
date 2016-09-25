@@ -1,1 +1,3 @@
+Title: chirp
+
 Why does "sudo renice -20" not work for #chrome's Flash plugin? Music keeps stuttering when #scala's compiling...

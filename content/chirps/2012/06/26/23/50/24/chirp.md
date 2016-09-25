@@ -1,1 +1,3 @@
+Title: chirp
+
 When I code #scala using vim, I get that candy lemon and orange taste in my mouth... yum. <a href="http://t.co/NjiJmaNU">http://t.co/NjiJmaNU</a>

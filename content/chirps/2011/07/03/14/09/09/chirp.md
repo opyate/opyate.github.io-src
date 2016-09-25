@@ -1,1 +1,3 @@
+Title: chirp
+
 "lark: NOUN, something done for fun" scalark? :-) RT <a href="http://twitter.com/mnzktw">@mnzktw</a>: Lispする人は Lisper, Pythonするひとは Pythonista, じゃあ #Scala は？

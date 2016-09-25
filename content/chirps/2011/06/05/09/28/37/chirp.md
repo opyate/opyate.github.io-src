@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/jorgeortiz85">@jorgeortiz85</a>: The innovation and excitement around Scala was palpable this week. So many more companies embracing it, so much cool t ...

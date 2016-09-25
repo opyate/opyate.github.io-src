@@ -1,1 +1,3 @@
+Title: chirp
+
 Extract Trait in IntelliJ? <a href="http://t.co/DHDwBlLgtp">http://t.co/DHDwBlLgtp</a> #scala

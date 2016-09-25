@@ -1,1 +1,3 @@
+Title: chirp
+
 #sizzle8 Why are banks afraid of bitcoin? It's made up, just like 99% of stuff they trade and sell.

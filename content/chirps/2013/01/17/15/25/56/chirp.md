@@ -1,1 +1,3 @@
+Title: chirp
+
 Vindaloo curry; doughnut; beers with my <a href="http://twitter.com/pollarizeme">@pollarizeme</a> boys later. #HedonisticThursdays

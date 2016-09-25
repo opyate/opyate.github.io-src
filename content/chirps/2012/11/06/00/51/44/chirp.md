@@ -1,1 +1,3 @@
+Title: chirp
+
 Can someone recommend good resources for algorithmically-generated faces/cartoons/humanoids, possibly using #Processing?

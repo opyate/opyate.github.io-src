@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/psd">@psd</a>: The term "open sourcing" sounds like killing, stuffing and mounting rather than releasing into the wild.

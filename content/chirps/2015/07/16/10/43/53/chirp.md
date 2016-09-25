@@ -1,1 +1,3 @@
+Title: chirp
+
 A little bit over a year ago I deleted my LinkedIn account. Somehow, old colleagues still make an effort to find me, and they do.

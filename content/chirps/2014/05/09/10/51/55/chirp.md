@@ -1,1 +1,3 @@
+Title: chirp
+
 Pulling the plug on my LinkedIn profile. Had 8 "consultants" clearly not read it before contacting me this morning. #shotgunrecruiters

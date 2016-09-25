@@ -1,1 +1,3 @@
+Title: chirp
+
 RSI from declining requests on Elance to "create something like Facebook" for $500.

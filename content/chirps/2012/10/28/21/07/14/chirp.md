@@ -1,1 +1,3 @@
+Title: chirp
+
 #scala progfun anagrams 10/10, and the infamous combinations method spans only 4 lines, including method definition and closing brace.

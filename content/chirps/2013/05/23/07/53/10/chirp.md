@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/bridger_w">@bridger_w</a>: Do you struggle with rational thinking and basic literacy? Let us know in the comments below

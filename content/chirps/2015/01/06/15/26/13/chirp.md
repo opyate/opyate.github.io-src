@@ -1,1 +1,3 @@
+Title: chirp
+
 <a href="http://twitter.com/rolandkuhn">@rolandkuhn</a> On <a href="http://t.co/XNYyMlS2Xn">http://t.co/XNYyMlS2Xn</a> why is backend seeded, and not frontend (who can say "service unavailable" to clients)?

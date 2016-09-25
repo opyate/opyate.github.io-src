@@ -1,1 +1,3 @@
+Title: chirp
+
 I'm a tiny bit amazed at the crap freelancers get away with. Claiming you've signed VISA as a strategic partner, fine. But jQuery?! :-/

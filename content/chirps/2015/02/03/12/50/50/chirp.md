@@ -1,1 +1,3 @@
+Title: chirp
+
 <a href="http://twitter.com/framedpicture">@framedpicture</a> Seriously, can your uploader please specify the format and size upfront?

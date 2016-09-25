@@ -1,1 +1,3 @@
+Title: chirp
+
 Interesting write-up on the current state of Bitcoin. <a href="http://t.co/FhASY4DoBm">http://t.co/FhASY4DoBm</a>

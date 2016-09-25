@@ -1,1 +1,3 @@
+Title: chirp
+
 Whoop! Full marks in Functional Programming Principles in Scala on <a href="http://twitter.com/Coursera">@Coursera</a>! <a href="https://t.co/MTrn5xkd">https://t.co/MTrn5xkd</a> #progfun

@@ -1,1 +1,3 @@
+Title: chirp
+
 Little Snitch showing Adobe's Updater making a request *every second*, and generally not being a good citizen. <a href="http://t.co/mqPSenWgTo">http://t.co/mqPSenWgTo</a>

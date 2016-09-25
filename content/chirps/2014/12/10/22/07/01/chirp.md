@@ -1,1 +1,3 @@
+Title: chirp
+
 This week in emails: "for all intense and purposes", and "peeked my interest".

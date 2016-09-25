@@ -1,1 +1,3 @@
+Title: chirp
+
 A day of a rare occurrences: breakfast at Ottolenghi's, and picking up the wedding bands in Hatton Gardens.

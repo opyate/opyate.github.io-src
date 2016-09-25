@@ -1,1 +1,3 @@
+Title: chirp
+
 TIL that if you skip the morning exercise routine because of work, the rest of day will feel like climbing an ∞ staircase. Never again.

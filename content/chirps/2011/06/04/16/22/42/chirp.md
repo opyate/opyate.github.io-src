@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/wrobwills">@wrobwills</a>: #scala #haskell and #erlang all mentioned in an #economist article.  Now we're getting mainstream! <a href="http://j.mp/lAITcp">http://j.mp/lAITcp</a>

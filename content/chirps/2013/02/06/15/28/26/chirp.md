@@ -1,1 +1,3 @@
+Title: chirp
+
 "Press Esc to exit full screen mode." lingers too fricking long.

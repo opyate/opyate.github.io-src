@@ -1,1 +1,3 @@
+Title: chirp
+
 An Android alarm clock which notices you've been about for an hour already, and doesn't do that annoying chime mid coffee pour. #idea

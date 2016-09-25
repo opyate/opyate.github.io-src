@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/vdichev">@vdichev</a>: My first lesson in functional programming was to not print results in a function, but return them to promote reuse.

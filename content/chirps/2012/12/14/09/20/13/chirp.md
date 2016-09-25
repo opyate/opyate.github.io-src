@@ -1,1 +1,3 @@
+Title: chirp
+
 Verified! MT <a href="http://twitter.com/mahemoff">@mahemoff</a>: Finally worked out how to move files in OSX Finder. (There's no Cut but there's ⌘-alt-v to paste as a move op.)

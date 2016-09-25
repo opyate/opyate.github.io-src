@@ -1,1 +1,3 @@
+Title: chirp
+
 RT <a href="http://twitter.com/segphault">@segphault</a>: I don’t condone Wikipedia vandalism, but this is really, really funny: <a href="http://t.co/4DDUcoN7">http://t.co/4DDUcoN7</a> (via reddit)

@@ -1,1 +1,3 @@
+Title: chirp
+
 <a href="http://twitter.com/LeonRadley">@LeonRadley</a> Hey Leon, what's the turnaround for getting new play-salat builds on the typesafe repo? Cheers for 1.0.4 BTW!

@@ -1,1 +1,3 @@
+Title: chirp
+
 Quick graphical example of #DI in #scala compared to #spring <a href="http://t.co/pGooVJmg">http://t.co/pGooVJmg</a>
