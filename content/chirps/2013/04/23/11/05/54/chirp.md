@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 8ed20df0ac78025dc7fd46bac36f8dd1
 
 Hi <a href="http://twitter.com/AmazonUK">@AmazonUK</a>, pay your corp tax already. <a href="https://t.co/Z6v8BsZLar">https://t.co/Z6v8BsZLar</a> via <a href="http://twitter.com/change">@change</a>

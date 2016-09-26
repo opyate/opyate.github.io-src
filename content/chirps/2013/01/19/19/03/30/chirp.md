@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 8919d331f0634670f539ec533e91df75
 
 RT <a href="http://twitter.com/imhobson">@imhobson</a>: Present from <a href="http://twitter.com/opyate">@opyate</a> when I got back from the gym - thanks buddy! @ Pollarize <a href="http://t.co/s7ZOhV9Z">http://t.co/s7ZOhV9Z</a>

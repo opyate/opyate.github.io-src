@@ -1,3 +1,4 @@
 Title: chirp
+Slug: f9f1981b64f718cec40ea8cc05819226
 
 <a href="http://twitter.com/David_Cameron">@David_Cameron</a>, please don't clobber bloggers with Leveson <a href="http://t.co/m1q5WmMgWl">http://t.co/m1q5WmMgWl</a>

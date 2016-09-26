@@ -1,3 +1,4 @@
 Title: chirp
+Slug: b90742b04c0c9280c1aae26ff4e27d23
 
 <a href="http://twitter.com/rubyannem">@rubyannem</a> Oh, crap. I didn't realise there might be some sort of dress code tonight. What's <a href="http://twitter.com/TremulantDesign">@TremulantDesign</a> wearing?

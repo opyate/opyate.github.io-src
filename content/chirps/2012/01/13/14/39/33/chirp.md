@@ -1,3 +1,4 @@
 Title: chirp
+Slug: a786e5e78ceb3fb15195a2989b680f51
 
 RT <a href="http://twitter.com/benoonbenoon">@benoonbenoon</a>: Holy crap. Absolutely appalling --&gt; RT <a href="http://twitter.com/smagdali">@smagdali</a>: Google, what were you thinking? <a href="http://t.co/DvWSmF7q">http://t.co/DvWSmF7q</a> - shocking b ...

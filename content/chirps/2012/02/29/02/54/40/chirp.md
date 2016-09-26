@@ -1,3 +1,4 @@
 Title: chirp
+Slug: b91a9dfef1280e8a3f96148bcab02f7a
 
 Quick photo update before I hit the town with some friends I made on the train. #sanfran <a href="http://t.co/Ke7xYI5v">http://t.co/Ke7xYI5v</a>

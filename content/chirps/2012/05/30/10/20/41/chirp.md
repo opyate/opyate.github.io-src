@@ -1,3 +1,4 @@
 Title: chirp
+Slug: a5cbcd32645caf28967a497ae5af78b7
 
 RT <a href="http://twitter.com/pollarizeme">@pollarizeme</a> pollarize.me pitch is at 5.30 today. Thinking of stripping to wake the judges up #wayraweek <a href="http://t.co/q3fXEJpP">http://t.co/q3fXEJpP</a> #plrz

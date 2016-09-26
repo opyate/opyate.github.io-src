@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 466e703abbc1da05b48b0460d41393bc
 
 RT <a href="http://twitter.com/wtrsld">@wtrsld</a>: This really should be the only thing you are referring to when you say, "Big Data". <a href="http://t.co/niCdZRYA4G">http://t.co/niCdZRYA4G</a>

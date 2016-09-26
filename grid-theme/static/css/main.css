@@ -9,6 +9,14 @@ body {
     background: #fff
 }
 
+.paginator {
+  display: table;
+  margin: 2em auto;
+}
+.paginator a {
+  padding: 10px;
+}
+
 p.tags a {
   text-decoration: none;
   padding: 3px 5px;
@@ -73,6 +81,9 @@ p.tags a:hover {
 .el.chirps .content {
     color: #FBFFDD;
     font-family: monospace;
+}
+.el.chirps .content a {
+  color: white;
 }
 
 .el.longform .content {

@@ -1,3 +1,4 @@
 Title: chirp
+Slug: a975d29b4323149d5ff4eeffe4e36840
 
 RT <a href="http://twitter.com/TremulantDesign">@TremulantDesign</a>: Pitch over, well done <a href="http://twitter.com/Wehtam">@Wehtam</a> and the rest of team <a href="http://twitter.com/PollarizeMe">@PollarizeMe</a>! #SWLondon <a href="http://t.co/twIzkGyY">http://t.co/twIzkGyY</a> <a href="http://t.co/kGISksi6">http://t.co/kGISksi6</a>

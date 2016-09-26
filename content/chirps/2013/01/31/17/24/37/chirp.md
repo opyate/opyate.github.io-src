@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 201d2ea3527c33e98da17bb8a66aa436
 
 RT <a href="http://twitter.com/KingofShaves">@KingofShaves</a>: I'd love you to answer this question <a href="http://t.co/2xpyqeRt">http://t.co/2xpyqeRt</a> if you know our King of Shaves brand!  Thanks! via /<a href="http://twitter.com/pollari">@pollari</a> ...

@@ -1,4 +1,5 @@
 Title: chirp
+Slug: 16b9cd16876e74bce24f94c4205d4179
 
 RT <a href="http://twitter.com/cole_peters">@cole_peters</a>: This is the best piece of tech journalism I have ever read. Amazing.
 

@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 5f0e4e7a8f9766ee88db81a73068d89a
 
 Missus grumbling at "Our Girl" somewhere behind me, so I dubbed it "Afghanistan 90210" <a href="https://t.co/8QYHH4MCLA">https://t.co/8QYHH4MCLA</a>

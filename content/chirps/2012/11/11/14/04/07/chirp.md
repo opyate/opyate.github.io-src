@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 44cc47cb58f516f3d86eb24132219ee9
 
 All 'tache-growing #angelhack hackers should get a ticket! RT <a href="http://twitter.com/TremulantDesign">@TremulantDesign</a>: Tickets for <a href="http://twitter.com/Digital_Sizzle">@Digital_Sizzle</a> #Sizzle7 <a href="http://t.co/qpOKIqyM">http://t.co/qpOKIqyM</a>

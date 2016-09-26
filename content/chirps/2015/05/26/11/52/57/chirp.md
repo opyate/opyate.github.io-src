@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 173a923c264b12ee7b928421a10b479a
 
 <a href="http://twitter.com/twilio">@twilio</a> Your font's rendering awfully small on my machine. Chrome 43.0.2357.65 (64-bit) on Ubuntu 14.04 <a href="http://t.co/BuVO0IB928">http://t.co/BuVO0IB928</a>

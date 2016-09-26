@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 1b54c314d235349b40debaae67f3cd44
 
 RT <a href="http://twitter.com/lfeatherstone">@lfeatherstone</a>: It's not yet clear who bought the missing Banksy but I call upon them to make it public so we can all enjoy it or return…

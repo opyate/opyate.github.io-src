@@ -36,24 +36,18 @@
 
 <body id="index" class="home">
 
-  <div class="els">
+  {% block content %}
+  {% endblock %}
 
-        <!-- gutter sizer -->
-        <div class="elgutter"></div>
-        <!-- column sizer -->
-        <div class="elcoll"></div>
+  {% if False %}<!-- deal with styling this later -->
+  <footer id="contentinfo" class="body">
+          <address id="about" class="vcard body">
+          Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+          which takes great advantage of <a href="http://python.org">Python</a>.
+          </address><!-- /#about -->
+  </footer><!-- /#contentinfo -->
+  {% endif %}
 
-        {% block content %}
-        {% endblock %}
-        {% if False %}<!-- deal with styling this later -->
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-        </footer><!-- /#contentinfo -->
-        {% endif %}
-    </div><!-- /#div:els -->
   <script src='{{ SITEURL }}/theme/js/jquery.min.js'></script>
 	<script src='{{ SITEURL }}/theme/js/isotope.pkgd.min.js'></script>
 	<script src="{{ SITEURL }}/theme/js/index.js"></script>

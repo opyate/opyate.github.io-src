@@ -1,3 +1,4 @@
 Title: chirp
+Slug: b83dfdcbf08703659d6dfa7ed132c348
 
 "<a href="http://twitter.com/kings13y">@kings13y</a>: <a href="http://t.co/uG5vXrKN">http://t.co/uG5vXrKN</a> looking at startup show on bravo, but I'm constantly drawn to the <a href="http://twitter.com/zeebox">@zeebox</a> links!" \cc <a href="http://twitter.com/thecoda">@thecoda</a>

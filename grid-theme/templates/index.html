@@ -1,36 +1,50 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="content">
-{% block content_title %}
-<!-- <h2>All articles</h2> -->
-{% endblock %}
 
-{% for article in articles_page.object_list %}
-  <div class='el {{ article.category }}' data-category='{{ article.category }}'>
-    {% if article.category == 'longform' %}
-
-        <h3>
-          <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-        </h3>
-        <p class='summary'>{{ article.summary|striptags }}</p>
-        <p class='tags'>
-          {%- for tag in article.tags|sort %}
-              <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-          {% endfor %}
-        </p>
-        <p class='date'>{{ article.locale_date }}</p>
-
-    {% elif article.category == 'chirps' %}
-
-      <p class='content'>{{ article.content|striptags }}</p>
-      <p class='date'>{{ article.locale_date }}</p>
-
-    {% endif %}
-  </div>
-{% endfor %}
-
+<div>
 {% if articles_page.has_other_pages() %}
     {% include 'pagination.html' %}
 {% endif %}
-</section><!-- /#content -->
+</div>
+
+<div class="els">
+
+  <!-- gutter sizer -->
+  <div class="elgutter"></div>
+  <!-- column sizer -->
+  <div class="elcoll"></div>
+
+  <section id="content">
+  {% block content_title %}
+  <!-- <h2>All articles</h2> -->
+  {% endblock %}
+
+  {% for article in articles_page.object_list %}
+    <div class='el {{ article.category }}' data-category='{{ article.category }}'>
+      {% if article.category == 'longform' %}
+
+          <h3>
+            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+          </h3>
+          <p class='summary'>{{ article.summary|striptags }}</p>
+          <p class='tags'>
+            {%- for tag in article.tags|sort %}
+                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+            {% endfor %}
+          </p>
+          <p class='date'>{{ article.locale_date }}</p>
+
+      {% elif article.category == 'chirps' %}
+
+        <div class='content'>{{ article.content }}</div>
+        <p class='date'>{{ article.locale_date }}</p>
+
+      {% endif %}
+    </div>
+  {% endfor %}
+
+  </section><!-- /#content -->
+
+</div><!-- /#div:els -->
+
 {% endblock content %}

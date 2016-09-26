@@ -1,4 +1,5 @@
 Title: chirp
+Slug: cd3cfb281236f4418e5cc1292da76fd5
 
 RT <a href="http://twitter.com/francesc">@francesc</a>: 100% code coverage
 "<a href="http://twitter.com/bloerwald">@bloerwald</a>: SUCCESS: 26/26 (100%) Tests passed <a href="http://t.co/pmw7DiiRp2">http://t.co/pmw7DiiRp2</a>"

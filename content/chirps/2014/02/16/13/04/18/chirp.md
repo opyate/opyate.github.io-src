@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 216a786e9b9f1bc2014c3a72b97dfe99
 
 Found this at the local market, and half the bottle will be gone by tonight. /cc <a href="http://twitter.com/fistfulofspice">@fistfulofspice</a> <a href="http://t.co/pHpVZmzDJB">http://t.co/pHpVZmzDJB</a>

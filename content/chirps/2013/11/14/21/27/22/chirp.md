@@ -1,3 +1,4 @@
 Title: chirp
+Slug: d4a49e2e47b32704953b8719c9a13d2e
 
 Yay, <a href="http://twitter.com/netflix">@netflix</a> on <a href="http://twitter.com/virginmedia">@virginmedia</a>.

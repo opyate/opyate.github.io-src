@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 9b228466f3eec6cd685d806ba549fe73
 
 Last minute thingies for <a href="http://twitter.com/PollarizeMe">@PollarizeMe</a> before <a href="http://twitter.com/WebSummitHQ">@WebSummitHQ</a> on Tuesday. #lonelyoffice <a href="http://t.co/8QnMgTAv">http://t.co/8QnMgTAv</a>

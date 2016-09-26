@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 73f924110ba99398e168795a7e783e39
 
 RT <a href="http://twitter.com/mengwong">@mengwong</a>: "i need to find a CTO for my tech startup" sounds a bit like "i want to start a rock band, but I don't sing or play any instr…

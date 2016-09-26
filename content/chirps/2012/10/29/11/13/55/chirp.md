@@ -1,3 +1,4 @@
 Title: chirp
+Slug: 8b016cd3a7a31430e70ff90e1072c833
 
 I shall stay up to date on Sandy from the safety of this cam on Lady Liberty's head: <a href="http://t.co/WiLfUvhg">http://t.co/WiLfUvhg</a>

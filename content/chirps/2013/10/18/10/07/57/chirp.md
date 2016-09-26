@@ -1,3 +1,4 @@
 Title: chirp
+Slug: ab7bf88d336e50987db7cda6fd8332ca
 
 I'm building a ship in a bottle, but the bottle is opaque and my thumbs are on backwards. #CodingForIE8Analogy <a href="http://t.co/TkGi8HsAkY">http://t.co/TkGi8HsAkY</a>

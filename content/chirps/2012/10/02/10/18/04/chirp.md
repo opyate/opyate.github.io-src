@@ -1,3 +1,4 @@
 Title: chirp
+Slug: e8f4811ef4366626149cc125115871ee
 
 <a href="http://twitter.com/dogpellet">@dogpellet</a> Can you async it with something like <a href="https://t.co/vnLmlOq0">https://t.co/vnLmlOq0</a> ? Try and let me know :)

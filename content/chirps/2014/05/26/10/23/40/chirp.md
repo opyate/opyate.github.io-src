@@ -1,3 +1,4 @@
 Title: chirp
+Slug: b2c4b7be5ca371852939178bbe3000bd
 
 Hey, which reminds me: are you doing ArtHack again in 2 weeks? :-) <a href="http://twitter.com/sara_sgm">@sara_sgm</a> <a href="http://t.co/i44GpSi5sW">http://t.co/i44GpSi5sW</a>
