@@ -39,14 +39,17 @@
   {% block content %}
   {% endblock %}
 
-  {% if False %}<!-- deal with styling this later -->
-  <footer id="contentinfo" class="body">
-          <address id="about" class="vcard body">
-          Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-          which takes great advantage of <a href="http://python.org">Python</a>.
-          </address><!-- /#about -->
-  </footer><!-- /#contentinfo -->
-  {% endif %}
+  <footer>
+    <ul>
+      <li>Copyright &copy; 1979 &mdash; {{ YEAR }} Juan M. Uys</li>
+      <li><a href="https://twitter.com/opyate" rel="me">@opyate on Twatter</a></li>
+      <li><a href="https://github.com/opyate" rel="me">Github</a></li>
+      <li><a href="https://plus.google.com/+juanuys" rel="me">Google+</a></li>
+      <li><a href="mailto:opyate@gmail.com" rel="me">opyate@gmail.com</a></li>
+      <li><a href="tel:+447702783956" rel="me">+44 (0) 7702 783 956</a></li>
+      <li>Proudly powered by <a href="http://getpelican.com/">Pelican</a> and <a href="http://python.org">Python</a></li>
+    </ul>
+  </footer>
 
   <script src='{{ SITEURL }}/theme/js/jquery.min.js'></script>
 	<script src='{{ SITEURL }}/theme/js/isotope.pkgd.min.js'></script>

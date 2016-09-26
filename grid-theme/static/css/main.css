@@ -211,3 +211,25 @@ blockquote:before {
     margin-right: 0.25em;
     vertical-align: -0.4em;
 }
+
+footer ul li{
+  display: inline;
+}
+
+footer a {
+  text-decoration: none;
+  padding: 3px 5px;
+}
+footer a:link {
+  background-color: #97748f;
+  color: white;
+}
+footer a:visited {
+  background-color: #8490ad;
+  color: white;
+}
+footer a:hover {
+  background-color: white;
+  color: black;
+  text-decoration: underline;;
+}

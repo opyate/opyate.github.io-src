@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import imp
+
+extra = imp.load_source('extra', './extra.py')
+YEAR = extra.YEAR
 
 AUTHOR = 'Juan Uys'
 SITENAME = "Juan Uys' personal website"
@@ -52,5 +56,4 @@ EXTRA_PATH_METADATA = {
 
 DATE_FORMATS = {
     'en': '%Y-%m-%d',
-    'jp': '%Y-%m-%d(%a)',
 }
