@@ -29,7 +29,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 40
+DEFAULT_PAGINATION = 32
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -43,10 +43,11 @@ USE_FOLDER_AS_CATEGORY = False
 
 THEME = './grid-theme'
 
-STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'grid-theme']
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'grid-theme', 'extra/CNAME']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/CNAME': {'path': 'CNAME'},
 }
 
 DATE_FORMATS = {
